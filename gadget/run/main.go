@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/headfirstgo/gadget"
-	"github.com/headfirstgo/gadget/gadgeterror"
+	"github.com/DagmarC/headfirstgo/gadget"
+	"github.com/DagmarC/headfirstgo/gadget/gadgeterror"
 	"log"
 )
 
