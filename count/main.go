@@ -6,8 +6,8 @@ import (
 	"log"
 	"sort"
 
-	"github.com/headfirstgo/constants"
-	"github.com/headfirstgo/datafile"
+	"github.com/DagmarC/headfirstgo/constants"
+	"github.com/DagmarC/headfirstgo/datafile"
 )
 
 func main() {
